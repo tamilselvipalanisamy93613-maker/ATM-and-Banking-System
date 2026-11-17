@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040460
+# Name: TAMILSELVI P
+# Date: 17.11.2026
 
 
 # AIM:
@@ -49,6 +49,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1256" height="907" alt="ATM and Banking system usecase diagram" src="https://github.com/user-attachments/assets/c2fa6ad6-98e3-44d3-b595-dacfbe422e91" />
 
 
 
@@ -68,6 +69,9 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1237" height="892" alt="ATM and Banking system class diagram" src="https://github.com/user-attachments/assets/024f778d-0423-4dee-b6cf-970380391082" />
+
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -77,6 +81,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1230" height="892" alt="ATM and Banking system communication diagram" src="https://github.com/user-attachments/assets/7b3d9b90-3163-45ff-9d4d-5567a622d108" />
 
 
 # PACKAGE DIAGRAM:
@@ -88,6 +93,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1227" height="872" alt="ATM and Banking system" src="https://github.com/user-attachments/assets/be281ee4-37c7-485a-9765-7327440f89de" />
 
 
 
@@ -115,6 +121,9 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
+<img width="1235" height="893" alt="BANK AND ATM" src="https://github.com/user-attachments/assets/b6c731be-1527-4d11-84a3-055d40a9ba9a" />
+
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
